@@ -47,7 +47,7 @@ You can define SLA categories as per customer requirement for example:
 |3|Medium|10 Hours|16 Hours| 
 |4|Low|12 Hours|24 Hours| 
 
-[c,ick here to read my full artical on SAP site...](https://blogs.sap.com/2021/07/15/experience-sap-it-services-management-itsm/)
+[click here to read my full artical on SAP site...](https://blogs.sap.com/2021/07/15/experience-sap-it-services-management-itsm/)
 
 
 
