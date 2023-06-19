@@ -13,7 +13,7 @@ SAP IT Service Management (ITSM) is ITIL based, compliant & certified software f
 
 Am sharing in this blog some of my experience with SAP ITSM software from one implementation project also as an IT services manager.
 
-Main SAP ITSM Features 
+**Main SAP ITSM Features**
 
 IT Requests Management
 Incidents Management
@@ -24,15 +24,15 @@ IT Analytics
 IT Service Desk.
  
 
-Terminology:
+**Terminology:**
 
-IRT
+**IRT**
 The IRT (Initial Response Time) represents the calculated point in time between the creation of the incident message and the first reaction by the processor contracted in the SLA.
 
-MPT
+**MPT**
 The MPT (Maximum Process Time) represents the calculated point in time between the creation of the incident message and the total processing time of the message contracted in the SLA
 
-SLA
+**SLA**
 Service Level Agreements
 
 
